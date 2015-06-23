@@ -1,0 +1,15 @@
+Data Wrangling with MongoDB
+Project 2: Data Wrangle OpenStreetMaps Data
+
+Edward Farrar
+22 June 2015
+
+I choose to wrangle the Fern Creek/Highview suburbs of Louisville, KY.  
+I choose Fern Creek/Highview in Lousiville because I currently live here with my family.
+
+The OSM URL: https://www.openstreetmap.org/export#map=13/38.1443/-85.6040
+
+Data was downloaded using Overpass API: http://overpass-api.de/api/map?bbox=-85.6824,38.1058,-85.5361,38.1719
+
+The resulting data file is 86.1 MB.
+

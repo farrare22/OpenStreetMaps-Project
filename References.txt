@@ -1,0 +1,13 @@
+References
+
+Chodorow, Kristina.  MongoDB, The Definitive Guide, Second Edition.  Sebastopol, CA: O'Reilly Media, Inc., 2013.
+
+IP[y]: IPython Interactive Computing.  (2015)  The IPython notebook [Documentation].  Retrieved from http://ipython.org/ipython-doc/stable/notebook/index.html.
+
+Lutz, Mark. Python Pocket Reference, Fifth Edition.  Sebastopol, CA: O'Reilly Media, Inc., 2014.
+
+MongoDB.  (2015)  MongoDB [Documentation, Reference Cards, and Software download].  Retrieved from http://www.mongodb.org/.
+
+Python Software Foundation. (2015) python [Documentation for general syntax].  Retrieved from https://www.python.org/doc/.
+
+Sample Data Wrangling Project.  (2015)  Sample Data Wrangling Project [Example Report, Sample MongoDB Queries].  Retrieved from https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub.
